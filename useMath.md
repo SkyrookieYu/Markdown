@@ -3,7 +3,7 @@ useMath: true
 ___
 
 <div class="math">
-\begin{equation}
+$\begin{equation}
   \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  
 \end{equation}
 
@@ -18,5 +18,5 @@ ___
 f(x)=\frac{P(x)}{Q(x)}
 
 \frac{\sin(x)}{x}
-\end{equation}
+\end{equation}$
 </div>
