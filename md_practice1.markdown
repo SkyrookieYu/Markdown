@@ -42,6 +42,11 @@ kjkjkljfsd fdsf ==highlight==
 `using namespace std;`    
 `cout<<"a string!""<<endl;`  
 
+`#include <iostream> 
+using namespace std;  
+cout<<"a string!""<<endl;`  
+
+
 *l1    
 l2    
 l3    
